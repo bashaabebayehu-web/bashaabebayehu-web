@@ -45,21 +45,8 @@ I'm currently working on improving my programming and web development skills whi
 * Health Technology
 * Digital Solutions
 
----
 
-## 📂 Featured Projects
 
-I'm currently building and adding projects to my GitHub.
-
-| Project                             | Description                                                             |
-| ----------------------------------- | ----------------------------------------------------------------------- |
-| 🌐 Portfolio Website                | My personal developer portfolio and introduction                        |
-| 💻 Web Development Projects         | A collection of websites and web applications I build while learning    |
-| 🏥 Public Health Technology Project | A technology project focused on solving a public-health-related problem |
-
-> 🚧 More projects coming soon.
-
----
 
 ## 🎯 My Goals
 
