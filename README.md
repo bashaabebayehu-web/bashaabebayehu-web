@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi, I'm Basha Abebayehu 👋
 
-<!--
-**bashaabebayehu-web/bashaabebayehu-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Public Health & Computer Science Student** at **Debre Berhan University**
+💻 Interested in **Web Development, Software Engineering, and Health Technology**
+🌱 Currently learning, building projects, and developing my programming skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a Public Health and Computer Science student interested in using technology to solve practical problems and create useful digital solutions.
+
+My interests include:
+
+* 🌐 Web Development
+* 💻 Software Development
+* 🏥 Digital Health & Health Technology
+* 📊 Technology for Public Health
+* 🚀 Building practical projects
+* 📚 Continuous learning
+
+I'm currently working on improving my programming and web development skills while building projects that demonstrate what I learn.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+
+### Areas of Interest
+
+* Computer Science
+* Web Development
+* Public Health
+* Health Technology
+* Digital Solutions
+
+---
+
+## 📂 Featured Projects
+
+I'm currently building and adding projects to my GitHub.
+
+| Project                             | Description                                                             |
+| ----------------------------------- | ----------------------------------------------------------------------- |
+| 🌐 Portfolio Website                | My personal developer portfolio and introduction                        |
+| 💻 Web Development Projects         | A collection of websites and web applications I build while learning    |
+| 🏥 Public Health Technology Project | A technology project focused on solving a public-health-related problem |
+
+> 🚧 More projects coming soon.
+
+---
+
+## 🎯 My Goals
+
+* Build strong programming and software development skills
+* Become a better web developer
+* Build useful real-world applications
+* Explore the intersection of **Public Health and Technology**
+* Contribute to open-source projects
+* Build a professional portfolio
+
+---
+
+## 📚 Currently Learning
+
+* JavaScript
+* Modern Web Development
+* Git & GitHub
+* Software Development
+* Problem Solving
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in technology, public health, software development, or collaboration, feel free to connect with me.
+
+**GitHub:** [@bashaabebayehu-web](https://github.com/bashaabebayehu-web)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+*I'm learning, building, and improving one project at a time.*
